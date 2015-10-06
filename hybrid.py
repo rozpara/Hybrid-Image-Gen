@@ -1,7 +1,7 @@
 import cv2
 
 highFreqCutoff = 35;
-lowFreqCutoff = 111;
+lowFreqCutoff = 99;
 
 #import images as grayscale images
 high = cv2.imread('paul.jpg',0)
